@@ -9,4 +9,4 @@ Repositório do Artigo de Estrutura de Dados 2 -- Impacto do sistema operacional
 </p>
 
 <h2>Locais</h2>
-code/{Algoritmo que deseja utilizar}/src/Main.Java
+code/{Algoritmo que deseja utilizar}/src/
